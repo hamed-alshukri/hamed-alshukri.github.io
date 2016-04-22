@@ -83,7 +83,7 @@ footer::after {
 }
 .middle-container {
     margin: 0 auto;
-    width: 960px;
+    width: 940px;
     height: 100%;
     position: relative;
 }
@@ -114,9 +114,47 @@ footer::after {
     padding: 25px 0;
 }
 
+.flex-slider {
+    position: relative;
+}
 .flex-viewport {
+    width: 940px;
+    height: 440px;
     border-radius: 6px;
+    margin: 0;
     box-shadow: 0 0 7px rgba(0,0,0,0.3);
+}
+.slides {
+    margin: 0;
+    padding: 0;
+}
+.slides li {
+    position: relative;
+}
+.flex-direction-nav {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    list-style: none;
+}
+.flex-nav-prev {
+    position: absolute;
+    left: -50px;
+}
+.flex-nav-next {
+    position: absolute;
+    right: -50px;
+}
+.flex-caption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.flex-caption p {
+    padding: 20px 16px;
+    margin: 0;
+    color: #fff;
 }
 
 /* Overview Section */
