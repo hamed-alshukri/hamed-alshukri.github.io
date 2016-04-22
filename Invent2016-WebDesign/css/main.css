@@ -1,0 +1,264 @@
+﻿/* Fonts */
+@font-face {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/abel-1.eot');
+    src: url('../fonts/abel-1.eot#iefix') format('embedded-opentype'),
+         url('../fonts/abel-2.woff') format('woff'),
+         url('../fonts/abel-2.woff2') format('woff2'),
+         url('../fonts/abel-2.ttf') format('truetype'),
+         url('../fonts/abel-2.svg') format('svg');
+}
+
+/* General Styles*/
+*, *::after, *::before {
+    -moz-box-sizing:    border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing:         border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 20px/33px 'Abel', 'Arial';
+    color: #454545;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    font-size: 45px;
+    color: #929292;
+    text-align: center;
+    margin: 0 0 50px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #fff;
+}
+
+h3 {
+    font-size: 21px;
+    line-height: 1.2;
+}
+
+p {
+
+}
+
+.alignright {
+    float: right;
+}
+
+.alignleft {
+    float: left;
+}
+
+.text-center {
+    text-align: center;
+}
+/* Layout */
+header,
+section,
+footer {
+    display: block;
+}
+
+header::after,
+section::after,
+footer::after {
+    content: ' ';
+    clear: both;
+    display: block;
+    width: 0;
+    height: 0;
+}
+.middle-container {
+    margin: 0 auto;
+    width: 960px;
+    height: 100%;
+    position: relative;
+}
+
+/* Elements */
+#logo {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+    display: block;
+}
+
+#footer-text {
+    text-align: center;
+    font-size: 17px;
+}
+
+#back-to-top{
+    position: fixed;
+    bottom: 15px;
+    right: 25px;
+}
+
+
+/* Slider */
+#slider {
+    background: url(../img/slider-background.jpg) center center no-repeat;
+    padding: 25px 0;
+}
+
+.flex-viewport {
+    border-radius: 6px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.3);
+}
+
+/* Overview Section */
+#overview {
+    background: url(../img/grid.png) center center no-repeat;
+    padding: 55px 0;
+}
+
+#overview-container {
+    position: relative;
+}
+
+#outer-circle {
+    border: 2px dashed #969696;
+    padding: 75px;
+    border-radius: 490px;
+    width: 490px;
+    height: 490px;
+    display: block;
+    margin: 0 auto;
+}
+
+#inner-circle {
+    padding: 10px;
+    background-color: #f5f5f5;
+    border: 2px solid #EBEBEB;
+    width: 340px;
+    height: 340px;
+    border-radius: 330px;
+    padding: 20px;
+    text-align: center;
+}
+#inner-circle.icon-building {
+    background-color: #DE6B6B;
+}
+
+#inner-circle.icon-energy {
+    background-color: #D49C53;
+}
+
+#inner-circle.icon-gov {
+    background-color: #D4BE47;
+}
+
+#inner-circle.icon-infrastructure {
+    background-color: #B178BB;
+}
+
+#inner-circle.icon-public {
+    background-color: #5ECDC1;
+}
+
+#inner-circle.icon-transportation {
+    background-color: #BED64C;
+}
+
+.overview-icon {
+    position: absolute;
+}
+#icon-building {
+    left: 241px;
+    top: 0;
+}
+#icon-energy {
+    left: 161px;
+    top: 180px;
+}
+#icon-gov {
+    left: 241px;
+    bottom: 0;
+}
+#icon-infrastructure {
+    right: 241px;
+    bottom: 0;
+}
+#icon-public {
+    right: 161px;
+    top: 180px;
+}
+#icon-transportation {
+    right: 241px;
+    top: 0;
+}
+
+#overview h3 {
+    position: absolute;
+    top: 46px;
+    margin: 0;
+}
+
+#icon-building h3,
+#icon-energy h3,
+#icon-gov h3 {
+    right: 130px;
+}
+#icon-infrastructure h3, 
+#icon-public h3,
+#icon-transportation h3 {
+    left: 130px;
+}
+
+/* Sections */
+.content-section {
+    padding: 25px 0;
+    background: url(../img/shade.png) center center no-repeat;
+    color: #fff;
+}
+#sec-building {
+    background-color: #DE6B6B;
+}
+
+#sec-energy {
+    background-color: #D49C53;
+}
+
+#sec-gov {
+    background-color: #D4BE47;
+}
+
+#sec-infra {
+    background-color: #B178BB;
+}
+
+#sec-public {
+    background-color: #5ECDC1;
+}
+
+#sec-transport {
+    background-color: #BED64C;
+}
+
+/* Columns */
+.col {
+    display: block;
+    float: left;
+}
+
+.one-half {
+    width: 49%;
+    margin-right: 2%;
+}
+
+.col.last {
+    margin-right: 0;
+}
