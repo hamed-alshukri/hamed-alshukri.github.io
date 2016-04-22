@@ -91,7 +91,7 @@ footer::after {
 /* Elements */
 #logo {
     text-align: center;
-    padding: 10px 0;
+    padding: 15px 0;
     margin: 0 auto;
     display: block;
 }
@@ -111,7 +111,7 @@ footer::after {
 /* Slider */
 #slider {
     background: url(../img/slider-background.jpg) center center no-repeat;
-    padding: 25px 0;
+    padding: 30px 0;
 }
 
 .flex-slider {
