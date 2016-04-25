@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="http://omanutd.com/" title="Oman United">
+    <siteMapNode url="~/register.aspx" title="Register" />
+    <siteMapNode url="~/register-success.aspx" title="Successful Registeration" />
+
+    <siteMapNode url="~/calculator.aspx" title="Insurance Calculator" />
+
+    <siteMapNode url="~/contact-us.aspx" title="Contact Us">
+      <siteMapNode url="~/contact-us-sent.aspx" title="Contact Message Sent" />
+    </siteMapNode>
+
+    <siteMapNode url="~/support-ticket.aspx" title="Support Ticket">
+      <siteMapNode url="~/support-ticket-submit.aspx" title="Support Ticket Submitted" />
+    </siteMapNode>
+
+    <siteMapNode url="~/my-account/default.aspx" title="My Account">
+      <siteMapNode url="~/my-account/tickets.aspx" title="Support Tickets">
+        <siteMapNode url="~/support-ticket-view.aspx" title="View Support Ticket" />
+      </siteMapNode>
+
+      <siteMapNode url="~/my-account/insurances.aspx" title="Insurances">
+        <siteMapNode url="~/my-account/insurance-view.aspx" title="View Insurance Policy" />
+        <siteMapNode url="~/my-account/insurance-add.aspx" title="Add Insurance Policy" />
+      </siteMapNode>
+
+      <siteMapNode url="~/my-account/settings.aspx" title="Settings">
+        <siteMapNode url="~/my-account/settings-password.aspx" title="Change Password" />
+        <siteMapNode url="~/my-account/settings-email.aspx" title="Change Email" />
+        <siteMapNode url="~/my-account/settings-personal.aspx" title="Update Personal Information" />
+      </siteMapNode>
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>
