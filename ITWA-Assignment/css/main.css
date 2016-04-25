@@ -4,9 +4,7 @@
   font-style: normal;
   font-weight: 400;
   src: url('../fonts/abel.eot');
-  src: /*local('Abel'),
-       local('Abel-Regular'),*/
-       url('../fonts/abel.eot?#iefix') format('embedded-opentype'),
+  src: url('../fonts/abel.eot?#iefix') format('embedded-opentype'),
        url('../fonts/abel.woff') format('woff'),
        url('../fonts/abel.woff2') format('woff2'),
        url('../fonts/abel.ttf') format('truetype'),
@@ -314,9 +312,11 @@ textarea {
 #logo {
     float: left;
     padding: 23px 0;
+    width: 315px;
 }
 #main-menu {
     float: right;
+    width: 545px;
 }
 #header-bar {
     background: url(../img/header-background.jpg) center center no-repeat;
@@ -372,7 +372,11 @@ header section {
 	#Menu1 img.icon { border-style:none;vertical-align:middle; }
 	#Menu1 img.separator { border-style:none;display:block; }
 	#Menu1 img.horizontal-separator { border-style:none;vertical-align:middle; }
-	#Menu1 ul { list-style:none;margin:0;padding:0;width:auto; }
+	#Menu1 ul {
+        list-style:none;
+        margin:0;
+        padding:0;
+    }
 	#Menu1 a { text-decoration:none;white-space:nowrap;display:block; }
 
 #main-menu .menu-item {
@@ -385,8 +389,22 @@ header section {
     font-family: Abel, "Helvetica Neue", Helvetica, Arial, Sans-serif;
 }
 
+.level1 {
+    float: left;
+    position: relative;
+}
+.parent-item li:hover ul.sub-menu {
+    display: block;
+}
+/*.level2 {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0px;
+}*/
+
 #main-menu .menu-item.selected,
-#main-menu .menu-item.highlighted {
+#main-menu .menu-item:hover {
     background: #e3b576;
     color: #fff;
     border: 1px solid #d0a15f;
@@ -394,15 +412,22 @@ header section {
     padding: 28px 11px;
 }
 
+.parent-item > li {
+    position: relative;
+    float: left;
+}
 .sub-menu {
     background: #e3b576;
     border: 1px solid #d0a15f;
     z-index: 10;
+    position: absolute;
+    top: 76px;
+    display: none;
 }
 
 .sub-menu a {
     color: #fff;
-    padding: 13px 11px;
+    padding: 13px 16px;
 }
 
 .sub-menu a.selected, .sub-menu a.highlighted {
