@@ -348,6 +348,7 @@ header section {
 .flexslider {
 	padding-top: 7px !important;
 	background: url(../img/slider-top.png) top center no-repeat;
+	overflow: hidden;
 }
 .flex-viewport {
 	border-radius: 7px;
