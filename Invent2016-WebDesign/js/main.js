@@ -9,7 +9,8 @@ $j(document).ready(function () {
 })
 
 function initFlexSlider() {
-    "use strict";
+    "use strict"
+
     $j('.flexslider').flexslider({
         animationLoop: true,
         controlNav: false,
@@ -33,18 +34,15 @@ function initFlexSlider() {
 
 function circleHover() {
     "use strict"
-    var circle = "";
 
-    $j('#overview-container .overview-icon').hover(
+    $j('#overview .overview-icon').hover(
         function circleMouseEnter() {
             var circle = $j(this).attr('Id');
             $j("#inner-circle").addClass(circle + " hover");
-            $j("#inner-circle img").attr('src', "img/icon-oman-hover.png");
         },
         function circleMouseExit() {
             var circle = $j(this).attr('Id');
             $j("#inner-circle").removeClass(circle + " hover");
-            $j("#inner-circle img").attr('src', "img/icon-oman.png");
         });
 }
 
@@ -59,7 +57,7 @@ function animateScroll() {
     $j(document).on('click', '.animate-scroll', function (e) {
         e.preventDefault();
         var elementClass = $j(this).attr('href');
-        $j('body,html').animate({ scrollTop: $j(elementClass).offset().top }, 'slow', 'swing');
+        $j('body,html').animate({ scrollTop: $j(elementClass).offset().top }, 2000, 'swing');
     });
 }
 
