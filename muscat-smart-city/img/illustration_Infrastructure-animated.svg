@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml-stylesheet href="../css/svg-style.css" type="text/css"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-42.2 178.1 490.6 485.8" style="enable-background:new -42.2 178.1 490.6 485.8;" xml:space="preserve">
+<circle id="Circle_Dahsed" class="dashed-cricle rotate-clockwise" cx="203.1" cy="421" r="205.1"/>
+
+<g id="Big_Vehicle_Top">
+	<g id="XMLID_584_">
+		<path id="XMLID_351_" class="infra-color figure-stroke" d="M67.6,350.5C67.5,350.5,67.5,350.5,67.6,350.5c-0.9,0-1.5-0.7-1.5-1.6l1-20.1
+			c0-0.4,0.2-0.8,0.6-1.1c0.3-0.3,0.8-0.4,1.2-0.3l16.6,3.7v-16.8c0-0.4,0.2-0.9,0.5-1.1c0.3-0.3,0.8-0.4,1.2-0.3l17.1,3.3l0.6-17.3
+			c0-0.4,0.2-0.8,0.5-1.1c0.3-0.3,0.8-0.4,1.2-0.3l17.7,2.7v-16.6c0-0.4,0.2-0.9,0.5-1.1c0.3-0.3,0.8-0.4,1.2-0.3l17.2,2.9v-16.5
+			c0-0.8,0.7-1.5,1.5-1.5s1.5,0.7,1.5,1.5v18.2c0,0.4-0.2,0.9-0.5,1.1c-0.3,0.3-0.8,0.4-1.2,0.3l-17.2-2.9v16.6
+			c0,0.4-0.2,0.8-0.5,1.1c-0.3,0.3-0.8,0.4-1.2,0.3l-17.7-2.7l-0.6,17.4c0,0.4-0.2,0.8-0.6,1.1c-0.3,0.3-0.8,0.4-1.2,0.3l-17.1-3.3
+			V333c0,0.4-0.2,0.9-0.6,1.2c-0.4,0.3-0.8,0.4-1.2,0.3l-16.7-3.7L69,349.1C69,349.9,68.3,350.5,67.6,350.5z"/>
+	</g>
+	<g id="XMLID_580_">
+
+			<rect id="XMLID_349_" x="153.2" y="259.5" transform="matrix(0.8699 0.4932 -0.4932 0.8699 151.9881 -55.0218)" class="infra-color figure-stroke" width="54.2" height="2.2"/>
+	</g>
+	<g id="XMLID_578_">
+		<rect id="XMLID_348_" x="202.8" y="275.1" class="infra-color figure-stroke" width="2.2" height="6.8"/>
+	</g>
+	<g id="XMLID_576_">
+		<polygon id="XMLID_347_" class="infra-color figure-stroke" points="153.2,278.4 159.4,261.8 203,281.3 198.9,292.3 		"/>
+	</g>
+	<g id="XMLID_574_">
+		<rect id="XMLID_346_" x="155.6" y="247.3" class="infra-color figure-stroke" width="2.2" height="15.3"/>
+	</g>
+	<g id="XMLID_572_">
+
+			<rect id="XMLID_345_" x="92.8" y="216.7" transform="matrix(0.6174 0.7867 -0.7867 0.6174 269.3097 39.6578)" class="infra-color figure-stroke" width="2.2" height="160"/>
+	</g>
+	<g id="XMLID_562_">
+
+			<rect id="XMLID_340_" x="103.1" y="242.4" transform="matrix(0.6218 0.7831 -0.7831 0.6218 274.6398 31.242)" class="infra-color figure-stroke" width="3.7" height="115.3"/>
+	</g>
+	<g id="XMLID_560_">
+
+			<rect id="XMLID_339_" x="110.8" y="255.9" transform="matrix(0.6251 0.7806 -0.7806 0.6251 286.0511 29.1797)" class="infra-color figure-stroke" width="3.7" height="113"/>
+	</g>
+	<g id="XMLID_554_">
+		<circle id="XMLID_336_" class="infra-color figure-stroke" cx="156.8" cy="270" r="11.2"/>
+	</g>
+	<g id="XMLID_552_">
+		<circle id="XMLID_335_" class="infra-color figure-stroke" cx="156.8" cy="270" r="5.1"/>
+	</g>
+	<g id="XMLID_546_">
+		<circle id="XMLID_332_" class="infra-color figure-stroke" cx="156.8" cy="247.3" r="4.1"/>
+	</g>
+	<g id="XMLID_544_">
+		<circle id="XMLID_331_" class="infra-color figure-stroke" cx="203.9" cy="274.1" r="2.8"/>
+	</g>
+</g>
+<g id="vehicle-lifting-part" class="lifting-part-mov">
+	<g id="XMLID_586_">
+		<path id="XMLID_352_" class="infra-color figure-stroke" d="M204,370.9c-2.5,0-5-0.9-6.9-2.5c-2.6-2.1-4.1-5.2-4.1-8.5c0-1,0.8-1.9,1.9-1.9
+			s1.9,0.8,1.9,1.9c0,2.2,1,4.3,2.7,5.7c1.7,1.4,3.9,1.9,6.2,1.5c2.7-0.6,5-2.8,5.5-5.5c0.7-3.3-0.8-6.6-3.8-8.1
+			c-3.2-1.6-5.2-4.7-5.2-8.1l0.4-51.1h3l0.3,51.1c0,2,1.2,3.8,3.1,4.8c4.5,2.3,6.8,7.2,5.7,12.1c-0.9,4.2-4.2,7.5-8.4,8.4
+			C205.5,370.8,204.7,370.9,204,370.9z"/>
+	</g>
+	<g id="XMLID_550_">
+		<circle id="XMLID_334_" class="infra-color figure-stroke" cx="203.9" cy="288.3" r="8"/>
+	</g>
+	<g id="XMLID_548_">
+		<circle id="XMLID_333_" class="infra-color figure-stroke" cx="203.9" cy="288.3" r="3.7"/>
+	</g>
+	<g id="XMLID_538_">
+		<path id="XMLID_328_" class="infra-color figure-stroke" d="M203.2,338.2l-9.7-9.7c-0.4-0.4-0.4-1,0-1.4l9.7-9.7c0.4-0.4,1-0.4,1.4,0l9.7,9.7
+			c0.4,0.4,0.4,1,0,1.4l-9.7,9.7C204.3,338.6,203.6,338.6,203.2,338.2z"/>
+	</g>
+	<g id="XMLID_536_">
+		<path id="XMLID_327_" class="infra-color figure-stroke" d="M203.2,333.3l-4.8-4.8c-0.4-0.4-0.4-1,0-1.4l4.8-4.8c0.4-0.4,1-0.4,1.4,0l4.8,4.8
+			c0.4,0.4,0.4,1,0,1.4l-4.8,4.8C204.3,333.7,203.6,333.7,203.2,333.3z"/>
+	</g>
+		<g id="XMLID_472_">
+			<g id="XMLID_479_">
+				<path id="XMLID_288_" class="infra-color figure-stroke" d="M226.2,402.2l1.8-1.1l-21.4-24.8c-0.6-1-1.7-1.6-2.9-1.6s-2.3,0.6-2.9,1.6l-21.4,24.8
+					l1.8,1.1l21.4-24.8c0.2-0.4,0.7-0.6,1.1-0.6c0.5,0,0.9,0.2,1.1,0.6L226.2,402.2z"/>
+			</g>
+			<path id="XMLID_287_" class="infra-color figure-stroke" d="M189.1,436.3h29.3c1.2,0,2.3-0.9,2.6-2.1l6.4-30.2h-47.3l6.4,30.2
+				C186.8,435.4,187.8,436.3,189.1,436.3z"/>
+			<g id="XMLID_474_">
+				<rect id="XMLID_286_" x="199.2" y="408.5" class="infra-color figure-stroke" width="9.1" height="24.2"/>
+				<polygon id="XMLID_285_" class="infra-color figure-stroke" points="189.7,432.7 194.4,432.7 194.4,408.5 185.3,408.5 				"/>
+				<polygon id="XMLID_284_" class="infra-color figure-stroke" points="217.8,432.7 213.1,432.7 213.1,408.5 222.2,408.5 				"/>
+			</g>
+			<path id="XMLID_283_" class="infra-color figure-stroke" d="M179.2,400.8h49.1c1.1,0,1.9,0.9,1.9,1.9v1.1c0,1.1-0.9,1.9-1.9,1.9h-49.1
+				c-1.1,0-1.9-0.9-1.9-1.9v-1.1C177.3,401.7,178.1,400.8,179.2,400.8z"/>
+		</g>
+		<path id="XMLID_282_" class="infra-color figure-stroke" d="M203,382.3h1.4c1.4,0,2.5-1.1,2.5-2.5v-13.1c0-1.4-1.1-2.5-2.5-2.5H203
+			c-1.4,0-2.5,1.1-2.5,2.5v13.1C200.6,381.2,201.7,382.3,203,382.3z"/>
+</g>
+<g id="Icons" class="rotate-clockwise">
+	<g class="rotate-counter-clockwise">
+		<circle id="XMLID_76_" class="figure-icon-circle" cx="203" cy="216" r="33.5"/>
+		<g id="XMLID_1519_">
+			<path id="XMLID_1520_" class="infra-color" d="M203,199.5l17.7,7.1v2.4h-2.4c0,0.3-0.1,0.6-0.4,0.8s-0.5,0.3-0.9,0.3h-28.1
+				c-0.3,0-0.6-0.1-0.9-0.3s-0.4-0.5-0.4-0.8h-2.4v-2.4L203,199.5z M219.4,229c0.3,0,0.6,0.1,0.9,0.3s0.4,0.5,0.4,0.8v2.4h-35.4
+				v-2.4c0-0.3,0.1-0.6,0.4-0.8c0.3-0.2,0.5-0.3,0.9-0.3H219.4z M190,211.3h4.7v14.1h2.4v-14.1h4.7v14.1h2.4v-14.1h4.7v14.1h2.4
+				v-14.1h4.7v14.1h1.1c0.3,0,0.6,0.1,0.9,0.3c0.3,0.2,0.4,0.5,0.4,0.8v1.2h-30.6v-1.2c0-0.3,0.1-0.6,0.4-0.8
+				c0.3-0.2,0.5-0.3,0.9-0.3h1.1v-14.1H190z"/>
+		</g>
+	</g>
+	<g class="rotate-counter-clockwise">
+		<circle id="XMLID_172_" class="figure-icon-circle" cx="408.2" cy="421" r="33.5"/>
+		<g id="XMLID_1501_">
+			<path id="XMLID_1517_" class="infra-color" d="M422.1,431.2c-0.4,1-1.6,1.7-2.5,2.2c-1.2,0.7-2.5,1.1-3.8,1.1c-1.9,0-3.7-0.8-5.4-1.4
+				c-1.3-0.5-2.5-1-3.6-1.7c-3.5-2.2-7.7-6.4-9.9-9.9c-0.7-1.1-1.3-2.4-1.7-3.6c-0.6-1.8-1.4-3.5-1.4-5.4c0-1.4,0.4-2.6,1.1-3.8
+				c0.5-0.9,1.2-2.1,2.2-2.5c0.7-0.3,2.1-0.6,2.9-0.6c0.1,0,0.3,0,0.4,0.1c0.4,0.1,0.9,1.2,1.1,1.6c0.7,1.2,1.3,2.4,2,3.5
+				c0.3,0.5,0.9,1.2,0.9,1.8c0,1.3-3.7,3.1-3.7,4.2c0,0.6,0.5,1.3,0.8,1.8c2.1,3.8,4.7,6.4,8.4,8.4c0.5,0.3,1.2,0.8,1.8,0.8
+				c1.1,0,3-3.7,4.2-3.7c0.6,0,1.3,0.6,1.8,0.9c1.2,0.7,2.4,1.3,3.5,2c0.4,0.2,1.4,0.7,1.6,1.1c0.1,0.1,0.1,0.3,0.1,0.4
+				C422.7,429.1,422.4,430.5,422.1,431.2z"/>
+		</g>
+	</g>
+	<g class="rotate-counter-clockwise">
+		<circle id="XMLID_174_" class="figure-icon-circle" cx="203.1" cy="626.1" r="33.5"/>
+		<g id="XMLID_1497_">
+			<path id="XMLID_1498_" class="infra-color" d="M215,642.2h-23.8c-2.9,0-4-2-2.5-4.5l10.4-16.4v-8.2h-1.3c-0.7,0-1.3-0.6-1.3-1.3
+				s0.6-1.3,1.3-1.3h10.6c0.7,0,1.3,0.6,1.3,1.3s-0.6,1.3-1.3,1.3h-1.3v8.2l10.4,16.4C219,640.2,217.9,642.2,215,642.2z
+				 M195.8,631.6h14.7l-5.6-8.9l-0.4-0.6v-0.7v-8.2h-2.6v8.2v0.8l-0.4,0.6L195.8,631.6z"/>
+		</g>
+	</g>
+	<g class="rotate-counter-clockwise">
+		<circle id="XMLID_108_" class="figure-icon-circle" cx="-2" cy="421" r="33.5"/>
+		<g id="XMLID_1492_">
+			<path id="XMLID_1493_" class="infra-color" d="M15.8,434.4H1.3c0.4,0,0.6-0.3,0.6-0.7l-0.4-5.3c0-0.4-0.4-0.7-0.7-0.7h-5.6
+				c-0.4,0-0.7,0.3-0.7,0.7l-0.4,5.3c0,0.4,0.3,0.7,0.6,0.7h-14.5c-0.8,0-1-0.9-1-1.5c0-0.8,0.2-1.7,0.5-2.4l8.6-21.6
+				c0.2-0.5,0.8-1,1.3-1h7c-0.4,0-0.7,0.3-0.7,0.7l-0.3,4c0,0.4,0.2,0.7,0.6,0.7h3.4c0.4,0,0.6-0.3,0.6-0.7l-0.3-4
+				c0-0.4-0.4-0.7-0.7-0.7h7c0.6,0,1.1,0.5,1.3,1l8.6,21.6c0.3,0.7,0.5,1.6,0.5,2.4C16.8,433.5,16.6,434.4,15.8,434.4z M1.1,423.1
+				l-0.5-6.6c0-0.4-0.4-0.7-0.7-0.7h-3.8c-0.4,0-0.7,0.3-0.7,0.7l-0.5,6.6v0.1c0,0.3,0.3,0.6,0.6,0.6h5
+				C0.8,423.8,1.1,423.6,1.1,423.1L1.1,423.1z"/>
+		</g>
+	</g>
+</g>
+<g id="Truck">
+	<path id="XMLID_402_" class="infra-color figure-stroke" d="M394.6,468.8l-0.9-3.3c-6-21.1-35.9-21.1-41.9,0l-1,3.3H394.6z"/>
+	<path id="XMLID_401_" class="infra-color figure-stroke" d="M402.5,527.7h-70.9c-1.1,0-2-0.9-2-2v-2.9h74.9v2.9C404.5,526.8,403.6,527.7,402.5,527.7z"/>
+	<path id="XMLID_400_" class="infra-color figure-stroke" d="M319.6,517.8h-44.4v-3.4c0-12,3.6-23.6,10.2-33.5l0,0c3.8-5.6,10.1-9,16.9-9h13.2
+		c2.2,0,4.1,1.8,4.1,4.1V517.8L319.6,517.8z"/>
+	<path id="XMLID_399_" class="infra-color figure-stroke" d="M408.8,517.8h-89.2v-8.1h88.2c0.6,0,1,0.4,1,1V517.8z"/>
+	<path id="XMLID_398_" class="infra-color figure-stroke" d="M329.1,466.5l-1.4-2.9c-1.1-2.3-3.5-3.8-6.1-3.8h-11.1c-1.5,0-2.7,1.2-2.7,2.7v3.6
+		c0,1.5,1.2,2.7,2.7,2.7h5.5c2.6,0,5,1.5,6.1,3.8l14.1,28.8c0.7,1.4,2.1,2.3,3.7,2.3h63.8c0.7,0,1.3-0.5,1.3-1.2l3.8-32.2
+		c0.1-0.8-0.5-1.5-1.3-1.5H333C331.2,468.8,329.8,467.9,329.1,466.5z"/>
+	<rect id="XMLID_397_" x="344.1" y="503.7" class="infra-color figure-stroke" width="54.7" height="5.9"/>
+	<path id="XMLID_396_" class="infra-color figure-stroke" d="M410.3,522.9h-137c-1,0-1.9-0.8-1.9-1.9v-1.3c0-1,0.8-1.9,1.9-1.9h137c1,0,1.9,0.8,1.9,1.9
+		v1.3C412.2,522,411.4,522.9,410.3,522.9z"/>
+	<g id="XMLID_637_">
+		<g id="XMLID_639_">
+			<path id="XMLID_395_" class="infra-color figure-stroke" d="M299.1,478.1h-11.5c-0.8,0.8-1.5,1.7-2.2,2.7l0,0c-4.3,6.4-7.3,13.5-8.9,21h22.6
+				c0.7,0,1.4-0.6,1.4-1.4v-21C300.4,478.7,299.8,478.1,299.1,478.1z"/>
+		</g>
+		<path id="XMLID_394_" class="infra-color figure-stroke" d="M313.7,501.9H306c-0.6,0-1-0.4-1-1v-21.7c0-0.6,0.4-1,1-1h7.7c0.6,0,1,0.4,1,1v21.7
+			C314.7,501.4,314.3,501.9,313.7,501.9z"/>
+	</g>
+	<polygon id="XMLID_393_" class="infra-color figure-stroke" points="351.7,499.2 345.2,499.2 333,473.8 339.4,473.8 	"/>
+	<polygon id="XMLID_392_" class="infra-color figure-stroke" points="367,499.2 360.6,499.2 348.4,473.8 354.8,473.8 	"/>
+	<polygon id="XMLID_391_" class="infra-color figure-stroke" points="382.4,499.2 376,499.2 363.8,473.8 370.2,473.8 	"/>
+	<polygon id="XMLID_390_" class="infra-color figure-stroke" points="397.8,499.2 391.4,499.2 379.1,473.8 385.6,473.8 	"/>
+	<polygon id="XMLID_389_" class="infra-color figure-stroke" points="401.5,488.2 394.5,473.8 401,473.8 403,477.9 	"/>
+	<path id="XMLID_388_" class="infra-color figure-stroke" d="M277.5,515.1h-2.7c-0.6,0-1-0.4-1-1v-1.6c0-0.6,0.4-1,1-1h2.7c0.6,0,1,0.4,1,1v1.6
+		C278.5,514.7,278,515.1,277.5,515.1z"/>
+	<path id="XMLID_387_" class="infra-color figure-stroke" d="M408.9,515.5h-2.7c-0.6,0-1-0.4-1-1v-1.6c0-0.6,0.4-1,1-1h2.7c0.6,0,1,0.4,1,1v1.6
+		C409.9,515.1,409.4,515.5,408.9,515.5z"/>
+	<path id="XMLID_386_" class="infra-color figure-stroke" d="M310.8,508h3c0.5,0,0.9-0.4,0.9-0.9v-0.7c0-0.5-0.4-0.9-0.9-0.9h-3c-0.5,0-0.9,0.4-0.9,0.9
+		v0.7C309.9,507.5,310.3,508,310.8,508z"/>
+	<circle id="XMLID_385_" class="infra-color figure-stroke" cx="282.2" cy="513.3" r="1.6"/>
+	<g id="XMLID_624_">
+		<g id="XMLID_626_">
+			<circle id="XMLID_384_" class="infra-color figure-stroke" cx="360.9" cy="524.4" r="13.1"/>
+		</g>
+		<circle id="XMLID_383_" class="infra-color figure-stroke" cx="360.9" cy="524.4" r="8.1"/>
+	</g>
+	<g id="XMLID_620_">
+		<g id="XMLID_622_">
+			<circle id="XMLID_382_" class="infra-color figure-stroke" cx="299" cy="524.4" r="13.1"/>
+		</g>
+		<circle id="XMLID_381_" class="infra-color figure-stroke" cx="299" cy="524.4" r="8.1"/>
+	</g>
+	<g id="XMLID_616_">
+		<g id="XMLID_618_">
+			<circle id="XMLID_380_" class="infra-color figure-stroke" cx="389.4" cy="524.4" r="13.1"/>
+		</g>
+		<circle id="XMLID_379_" class="infra-color figure-stroke" cx="389.4" cy="524.4" r="8.1"/>
+	</g>
+	<path id="XMLID_378_" class="infra-color figure-stroke" d="M332.4,468.8L332.4,468.8c12.1-20.2,41.5-20.2,53.6,0l0,0H332.4z"/>
+	<path id="XMLID_377_" class="infra-color figure-stroke" d="M362.9,468.8L362.9,468.8c11.5-12.6,31.2-12.6,42.7,0l0,0H362.9z"/>
+	<polygon id="XMLID_376_" class="infra-color figure-stroke" points="296.1,501.8 298,501.8 289.8,478.1 288,478.1 	"/>
+	<path id="XMLID_375_" class="infra-color figure-stroke" d="M290.7,501.9h4l-8.1-22.6c0,0-1.5,1.9-2.4,3.5L290.7,501.9z"/>
+	<g id="XMLID_610_">
+		<path id="XMLID_374_" class="infra-color figure-stroke" d="M284.1,522.9c0.9-7.4,7.2-13.3,14.9-13.3c7.6,0,14,5.9,14.9,13.3H284.1z"/>
+	</g>
+	<circle id="XMLID_373_" class="infra-color figure-stroke" cx="391.3" cy="464" r="1"/>
+	<circle id="XMLID_372_" class="infra-color figure-stroke" cx="387.1" cy="462" r="1.3"/>
+	<circle id="XMLID_371_" class="infra-color figure-stroke" cx="388.4" cy="465.5" r="0.7"/>
+	<circle id="XMLID_370_" class="infra-color figure-stroke" cx="382.7" cy="465.9" r="1.7"/>
+	<circle id="XMLID_369_" class="infra-color figure-stroke" cx="398.5" cy="466.8" r="0.7"/>
+	<circle id="XMLID_368_" class="infra-color figure-stroke" cx="396.5" cy="464.3" r="0.4"/>
+	<circle id="XMLID_367_" class="infra-color figure-stroke" cx="382.5" cy="462.8" r="0.4"/>
+	<circle id="XMLID_366_" class="infra-color figure-stroke" cx="351.7" cy="459.6" r="1.7"/>
+	<circle id="XMLID_365_" class="infra-color figure-stroke" cx="352.6" cy="464.7" r="1"/>
+	<circle id="XMLID_364_" class="infra-color figure-stroke" cx="348.2" cy="462.6" r="1.3"/>
+	<circle id="XMLID_363_" class="infra-color figure-stroke" cx="363.6" cy="457.9" r="2.4"/>
+	<circle id="XMLID_362_" class="infra-color figure-stroke" cx="360.4" cy="462.6" r="0.9"/>
+	<circle id="XMLID_361_" class="infra-color figure-stroke" cx="364.7" cy="463" r="1.5"/>
+	<circle id="XMLID_360_" class="infra-color figure-stroke" cx="346.6" cy="459.2" r="0.7"/>
+	<circle id="XMLID_359_" class="infra-color figure-stroke" cx="381.7" cy="456.9" r="1.3"/>
+	<circle id="XMLID_358_" class="infra-color figure-stroke" cx="381.3" cy="453.8" r="0.6"/>
+	<circle id="XMLID_357_" class="infra-color figure-stroke" cx="377.8" cy="454.6" r="2"/>
+</g>
+<g id="XMLID_353_">
+	<g id="XMLID_648_">
+		<rect id="XMLID_406_" x="143.1" y="507.3" class="infra-color figure-stroke" width="20.4" height="29"/>
+		<path id="XMLID_405_" class="infra-color figure-stroke" d="M143.1,509.6h20.4c0.5,0,0.9-0.4,0.9-0.9v-0.5c0-0.5-0.4-0.9-0.9-0.9h-20.4
+			c-0.5,0-0.9,0.4-0.9,0.9v0.5C142.2,509.2,142.6,509.6,143.1,509.6z"/>
+		<path id="XMLID_404_" class="infra-color figure-stroke" d="M143.1,522.9h20.4c0.5,0,0.9-0.4,0.9-0.9v-0.5c0-0.5-0.4-0.9-0.9-0.9h-20.4
+			c-0.5,0-0.9,0.4-0.9,0.9v0.5C142.2,522.5,142.6,522.9,143.1,522.9z"/>
+		<path id="XMLID_403_" class="infra-color figure-stroke" d="M143.1,536.3h20.4c0.5,0,0.9-0.4,0.9-0.9v-0.5c0-0.5-0.4-0.9-0.9-0.9h-20.4
+			c-0.5,0-0.9,0.4-0.9,0.9v0.5C142.2,535.9,142.6,536.3,143.1,536.3z"/>
+	</g>
+	<g id="XMLID_470_">
+		<g id="XMLID_535_">
+			<g id="XMLID_582_">
+				<path id="XMLID_350_" class="infra-color figure-stroke" d="M34,485.7c-0.7,0-1.3-0.4-1.6-1c-0.5-0.9-0.1-2,0.8-2.5l21.2-11.3L36.6,453
+					c-0.4-0.4-0.6-1-0.5-1.6c0.1-0.6,0.4-1.1,0.9-1.4l19.5-11l-16-16.4c-0.4-0.4-0.6-0.9-0.5-1.4c0-0.5,0.3-1,0.7-1.3l18-13.6
+					l-13.8-17c-0.6-0.8-0.5-1.9,0.2-2.6l15.8-13.3l-11.3-18.6c-0.5-0.9-0.3-2,0.6-2.5c0.9-0.5,2-0.3,2.5,0.6l12.1,19.9
+					c0.5,0.8,0.3,1.8-0.4,2.4l-15.7,13.1l13.9,17.1c0.3,0.4,0.5,0.9,0.4,1.4c-0.1,0.5-0.3,1-0.7,1.3l-17.8,13.5l16,16.6
+					c0.4,0.4,0.6,1,0.5,1.6c-0.1,0.6-0.4,1.1-0.9,1.3l-19.5,11L58.5,470c0.4,0.4,0.6,1,0.5,1.6s-0.4,1.1-1,1.4l-23.4,12.5
+					C34.6,485.6,34.3,485.7,34,485.7z"/>
+			</g>
+			<g id="XMLID_570_">
+
+					<rect id="XMLID_344_" x="23.6" y="345.8" transform="matrix(0.9962 8.660503e-002 -8.660503e-002 0.9962 36.2282 -0.5724)" class="infra-color figure-stroke" width="2.2" height="142.8"/>
+			</g>
+			<g id="XMLID_568_">
+				<rect id="XMLID_343_" x="33.2" y="344.3" class="infra-color figure-stroke" width="16.2" height="3.7"/>
+			</g>
+			<g id="XMLID_566_">
+
+					<rect id="XMLID_342_" x="39.5" y="350.6" transform="matrix(0.9911 0.1334 -0.1334 0.9911 56.3745 -1.8648)" class="infra-color figure-stroke" width="5.2" height="138.4"/>
+			</g>
+			<g id="XMLID_564_">
+
+					<rect id="XMLID_341_" x="58" y="351.1" transform="matrix(0.9981 6.164690e-002 -6.164690e-002 0.9981 25.9932 -2.9388)" class="infra-color figure-stroke" width="5.2" height="137.4"/>
+			</g>
+			<g id="XMLID_558_">
+				<circle id="XMLID_338_" class="infra-color figure-stroke" cx="58.8" cy="346.1" r="13.2"/>
+			</g>
+			<g id="XMLID_556_">
+				<circle id="XMLID_337_" class="infra-color figure-stroke" cx="58.8" cy="346.1" r="6"/>
+			</g>
+			<g id="XMLID_542_">
+				<circle id="XMLID_330_" class="infra-color figure-stroke" cx="30.9" cy="346.1" r="7.6"/>
+			</g>
+			<g id="XMLID_540_">
+				<circle id="XMLID_329_" class="infra-color figure-stroke" cx="30.9" cy="346.1" r="5.2"/>
+			</g>
+		</g>
+		<g id="XMLID_481_">
+			<path id="XMLID_326_" class="infra-color figure-stroke" d="M70.8,459.4h26.9c2.3,0,4.3,1.8,4.4,4.2l2.7,40.7H65l1.3-40.5
+				C66.5,461.3,68.4,459.4,70.8,459.4z"/>
+			<rect id="XMLID_325_" x="59.4" y="509.2" class="infra-color figure-stroke" width="35.6" height="6"/>
+			<g id="XMLID_507_">
+				<g id="XMLID_528_">
+					<path id="XMLID_324_" class="infra-color figure-stroke" d="M30.8,535.2h94.5c5.8,0,10.6-4.7,10.6-10.6l0,0c0-5.8-4.7-10.6-10.6-10.6H30.8
+						c-5.8,0-10.6,4.7-10.6,10.6l0,0C20.2,530.5,24.9,535.2,30.8,535.2z"/>
+					<path id="XMLID_529_" class="infra-color figure-stroke" d="M19.1,524.6c0-6.4,5.2-11.7,11.7-11.7h94.5c6.4,0,11.7,5.2,11.7,11.7
+						c0,6.4-5.2,11.7-11.7,11.7H30.8C24.3,536.3,19.1,531.1,19.1,524.6z M30.8,515.2c-5.2,0-9.4,4.2-9.4,9.5c0,5.2,4.2,9.4,9.4,9.4
+						h94.5c5.2,0,9.4-4.2,9.4-9.5c0-5.2-4.2-9.4-9.4-9.4H30.8z"/>
+				</g>
+				<g id="XMLID_519_">
+					<path id="XMLID_321_" class="infra-color figure-stroke" d="M109.5,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C108.5,531.6,109,532,109.5,532z"/>
+					<path id="XMLID_320_" class="infra-color figure-stroke" d="M99.9,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C98.9,531.6,99.4,532,99.9,532z"/>
+					<path id="XMLID_319_" class="infra-color figure-stroke" d="M90.4,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C89.4,531.6,89.8,532,90.4,532z"/>
+					<path id="XMLID_318_" class="infra-color figure-stroke" d="M80.8,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C79.8,531.6,80.2,532,80.8,532z"/>
+					<path id="XMLID_317_" class="infra-color figure-stroke" d="M71.2,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C70.2,531.6,70.7,532,71.2,532z"/>
+					<path id="XMLID_316_" class="infra-color figure-stroke" d="M61.6,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C60.6,531.6,61.1,532,61.6,532z"/>
+					<path id="XMLID_315_" class="infra-color figure-stroke" d="M52.1,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C51.1,531.6,51.5,532,52.1,532z"/>
+					<path id="XMLID_314_" class="infra-color figure-stroke" d="M42.5,532h4c0.6,0,1-0.4,1-1v-3.6h-6v3.6C41.5,531.6,41.9,532,42.5,532z"/>
+				</g>
+				<g id="XMLID_516_">
+					<path id="XMLID_313_" class="infra-color figure-stroke" d="M90.4,515.2h4c0.6,0,1,0.4,1,1v5.1h-6v-5.1C89.4,515.7,89.8,515.2,90.4,515.2z"/>
+					<path id="XMLID_312_" class="infra-color figure-stroke" d="M61.6,515.2h4c0.6,0,1,0.4,1,1v5.1h-6v-5.1C60.6,515.7,61.1,515.2,61.6,515.2z"/>
+				</g>
+				<rect id="XMLID_311_" x="36.1" y="520.7" class="infra-color figure-stroke" width="83.7" height="7.9"/>
+				<g id="XMLID_508_">
+					<g id="XMLID_512_">
+						<circle id="XMLID_310_" class="infra-color figure-stroke" cx="32" cy="524.6" r="6.6"/>
+						<circle id="XMLID_309_" class="infra-color figure-stroke" cx="32" cy="524.6" r="3.9"/>
+					</g>
+					<g id="XMLID_509_">
+						<circle id="XMLID_308_" class="infra-color figure-stroke" cx="124.1" cy="524.6" r="6.6"/>
+						<circle id="XMLID_307_" class="infra-color figure-stroke" cx="124.1" cy="524.6" r="3.9"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_505_">
+				<polygon id="XMLID_306_" class="infra-color figure-stroke" points="65,504.2 65.8,482.7 104.1,492.1 104.9,504.2 				"/>
+			</g>
+			<rect id="XMLID_305_" x="72.3" y="454.2" class="infra-color figure-stroke" width="4.6" height="7.4"/>
+			<rect id="XMLID_304_" x="80" y="452.9" class="infra-color figure-stroke" width="3.8" height="7.4"/>
+			<path id="XMLID_303_" class="infra-color figure-stroke" d="M72.2,450.2H77c0.6,0,1,0.4,1,1v3.1h-6.8v-3.1C71.2,450.6,71.7,450.2,72.2,450.2z"/>
+			<path id="XMLID_302_" class="infra-color figure-stroke" d="M11.3,505.4h68.9v-20.5c0-1.7-1.3-3-3-3H14.3c-1.7,0-3,1.3-3,3V505.4z"/>
+			<rect id="XMLID_301_" x="20.2" y="485.5" class="infra-color figure-stroke" width="26.2" height="13.1"/>
+			<g id="XMLID_498_">
+				<path id="XMLID_300_" class="infra-color figure-stroke" d="M70.8,459.4h26.9c2.3,0,4.3,1.8,4.4,4.2v0.4H66.3v-0.2C66.5,461.3,68.4,459.4,70.8,459.4z"
+					/>
+			</g>
+			<polygon id="XMLID_299_" class="infra-color figure-stroke" points="101.9,491.5 94.2,463.9 91.8,463.9 99.4,490.9 			"/>
+			<polygon id="XMLID_298_" class="infra-color figure-stroke" points="90.5,488.7 96.2,490.1 88.9,463.9 83.6,463.9 			"/>
+			<g id="XMLID_485_">
+				<g id="XMLID_492_">
+					<path id="XMLID_493_" class="infra-color figure-stroke" d="M37.6,492l-1.2,0.7l0.8,1.3l1.2-0.7c0.4,0.4,0.9,0.6,1.4,0.7l0.1,1.4l1.5-0.1l-0.1-1.4
+						c0.5-0.2,1-0.4,1.3-0.8l1.2,0.6l0.7-1.3l-1.2-0.6c0.1-0.3,0.1-0.5,0.1-0.8s-0.1-0.5-0.2-0.8l1.2-0.7l-0.8-1.3l-1.2,0.7
+						c-0.4-0.4-0.9-0.6-1.4-0.7l-0.1-1.4l-1.5,0.1l0.1,1.4c-0.5,0.2-1,0.4-1.3,0.8l-1.2-0.6l-0.7,1.3l1.2,0.6
+						c-0.1,0.3-0.1,0.5-0.1,0.8S37.5,491.8,37.6,492z M38.8,491.2c0-0.9,0.7-1.7,1.6-1.7c0.9,0,1.7,0.7,1.7,1.6s-0.7,1.7-1.6,1.7
+						C39.6,492.8,38.8,492.1,38.8,491.2z"/>
+				</g>
+				<g id="XMLID_488_">
+					<path id="XMLID_489_" class="infra-color figure-stroke" d="M31.3,492.2l-1.1-0.4l-0.4,1.2l1.1,0.4c0,0.4,0,0.9,0.2,1.3l-0.9,0.7l0.8,1l0.9-0.7
+						c0.4,0.3,0.8,0.4,1.2,0.5l0.2,1.1l1.3-0.2l-0.2-1.1c0.2-0.1,0.4-0.2,0.6-0.3s0.3-0.3,0.5-0.5l1.1,0.4l0.4-1.2l-1.1-0.4
+						c0-0.4,0-0.9-0.2-1.3l0.9-0.7l-0.8-1l-0.9,0.7c-0.4-0.3-0.8-0.4-1.2-0.5l-0.2-1.1l-1.3,0.2l0.2,1.1c-0.2,0.1-0.4,0.2-0.6,0.3
+						C31.6,491.8,31.5,492,31.3,492.2z M32.5,492.6c0.6-0.5,1.5-0.4,1.9,0.2c0.5,0.6,0.4,1.5-0.2,1.9c-0.6,0.5-1.5,0.4-1.9-0.2
+						C31.8,493.9,31.9,493.1,32.5,492.6z"/>
+				</g>
+				<circle id="XMLID_293_" class="infra-color figure-stroke" cx="33.4" cy="493.6" r="1"/>
+				<circle id="XMLID_292_" class="infra-color figure-stroke" cx="40.4" cy="491.1" r="1.2"/>
+			</g>
+			<path id="XMLID_291_" class="infra-color figure-stroke" d="M13.3,510.9h89.6c1.1,0,2-0.9,2-2v-4.7H11.3v4.7C11.3,510,12.2,510.9,13.3,510.9z"/>
+			<path id="XMLID_290_" class="infra-color figure-stroke" d="M102,509h2.8c0.7,0,1.3-0.6,1.3-1.3v-0.8c0-0.7-0.6-1.3-1.3-1.3H102c-0.4,0-0.7,0.3-0.7,0.7
+				v2.1C101.3,508.7,101.6,509,102,509z"/>
+			<path id="XMLID_289_" class="infra-color figure-stroke" d="M14.2,509h-2.8c-0.7,0-1.3-0.6-1.3-1.3v-0.8c0-0.7,0.6-1.3,1.3-1.3h2.8
+				c0.4,0,0.7,0.3,0.7,0.7v2.1C14.9,508.7,14.6,509,14.2,509z"/>
+		</g>
+	</g>
+	<g id="XMLID_449_">
+		<path id="XMLID_281_" class="infra-color figure-stroke" d="M197,536.3l1.1-3.8c6.9-24.2,41.2-24.2,48.1,0l1.1,3.8H197z"/>
+		<path id="XMLID_280_" class="infra-color figure-stroke" d="M268.5,536.3L268.5,536.3c-13.9-23.2-47.6-23.2-61.5,0l0,0H268.5z"/>
+		<path id="XMLID_279_" class="infra-color figure-stroke" d="M233.4,536.3L233.4,536.3c-13.1-14.4-35.9-14.4-49,0l0,0H233.4z"/>
+		<circle id="XMLID_278_" class="infra-color figure-stroke" cx="200.8" cy="530.8" r="1.2"/>
+		<circle id="XMLID_277_" class="infra-color figure-stroke" cx="213.9" cy="529.7" r="1.5"/>
+		<circle id="XMLID_276_" class="infra-color figure-stroke" cx="197" cy="534" r="0.8"/>
+		<circle id="XMLID_275_" class="infra-color figure-stroke" cx="210.7" cy="533" r="1.9"/>
+		<circle id="XMLID_274_" class="infra-color figure-stroke" cx="192.6" cy="534" r="0.8"/>
+		<circle id="XMLID_273_" class="infra-color figure-stroke" cx="194.9" cy="531.2" r="0.5"/>
+		<circle id="XMLID_272_" class="infra-color figure-stroke" cx="211" cy="529.4" r="0.5"/>
+		<circle id="XMLID_271_" class="infra-color figure-stroke" cx="246.2" cy="525.8" r="2"/>
+		<circle id="XMLID_270_" class="infra-color figure-stroke" cx="245.3" cy="531.6" r="1.1"/>
+		<circle id="XMLID_269_" class="infra-color figure-stroke" cx="250.3" cy="529.2" r="1.5"/>
+		<circle id="XMLID_268_" class="infra-color figure-stroke" cx="232.6" cy="523.8" r="2.7"/>
+		<circle id="XMLID_267_" class="infra-color figure-stroke" cx="236.3" cy="529.2" r="1.1"/>
+		<circle id="XMLID_266_" class="infra-color figure-stroke" cx="231.4" cy="529.6" r="1.7"/>
+		<circle id="XMLID_265_" class="infra-color figure-stroke" cx="252.2" cy="525.3" r="0.8"/>
+		<circle id="XMLID_264_" class="infra-color figure-stroke" cx="215.1" cy="522.7" r="1.5"/>
+		<circle id="XMLID_263_" class="infra-color figure-stroke" cx="214.7" cy="518.5" r="0.7"/>
+		<circle id="XMLID_262_" class="infra-color figure-stroke" cx="219.3" cy="518.9" r="2.3"/>
+	</g>
+	<g id="XMLID_438_">
+		<g id="XMLID_446_">
+			<rect id="XMLID_261_" x="203.9" y="502.5" class="infra-color figure-stroke" width="3.2" height="33.8"/>
+			<rect id="XMLID_260_" x="175.8" y="502.5" class="infra-color figure-stroke" width="3.2" height="33.8"/>
+		</g>
+		<rect id="XMLID_259_" x="172.7" y="506" class="infra-color figure-stroke" width="37.6" height="20.9"/>
+		<g id="XMLID_441_">
+			<polygon id="XMLID_258_" class="infra-color figure-stroke" points="172.7,526.9 179,526.9 184.9,506 178.5,506 			"/>
+			<polygon id="XMLID_257_" class="infra-color figure-stroke" points="185.4,526.9 191.7,526.9 197.6,506 191.2,506 			"/>
+			<polygon id="XMLID_256_" class="infra-color figure-stroke" points="198.1,526.9 204.4,526.9 210.3,506 203.9,506 			"/>
+		</g>
+		<path id="XMLID_255_" class="infra-color figure-stroke" d="M205,498.9h1.1c1,0,1.9,0.8,1.9,1.9v1.7h-4.9v-1.7C203.1,499.7,204,498.9,205,498.9z"/>
+		<path id="XMLID_254_" class="infra-color figure-stroke" d="M176.9,498.9h1.1c1,0,1.9,0.8,1.9,1.9v1.7H175v-1.7C175,499.7,175.8,498.9,176.9,498.9z"/>
+	</g>
+</g>
+</svg>

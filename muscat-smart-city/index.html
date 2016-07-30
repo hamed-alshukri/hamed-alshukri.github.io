@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Muscat Smart City</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<link href="css/jquery.mmenu.all.css" rel="stylesheet" />
+	<link rel="stylesheet" href="css/jquery.mmenu.dragopen.css" />
+	<link href="css/remodal.css" rel="stylesheet" />
+	<link href="css/remodal-default-theme.css" rel="stylesheet" />
+	<link href="css/pace-theme-flash.css" rel="stylesheet" />
+	<link href="css/main.css" rel="stylesheet" />
+
+	<script src="js/jquery.js"></script>
+	<script src="js/modernizr-custom.js"></script>
+	<script src="js/jRespond.min.js"></script>
+	<script src="js/more.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script src="js/remodal.min.js"></script>
+	<script src="js/pace.min.js"></script>
+	<script src="js/js.cookie.js"></script>
+	   
+	<script type="text/javascript" src="http://hammerjs.github.io/dist/hammer.min.js"></script>
+	<script src="js/jquery.mmenu.all.min.js"></script>
+	<script type="text/javascript" src="js/jquery.mmenu.dragopen.min.js"></script>
+	<script type="text/javascript" src="js/jquery.mmenu.fixedelements.min.js"></script>
+	<script src="js/main.js"></script>
+
+	<link  href="favicon.ico" rel="icon" type="image/x-icon" />
+</head>
+
+<body>
+
+	<div id="page">
+		<header id="header" class="Fixed">
+			<a href="#home" id="logo" class="clearfix">
+				<object type="image/svg+xml" data="img/logo.svg" width="136">
+					<img src="img/logo.png" alt="Muscat Logo" />
+				</object>
+			</a>
+			<a id="menu-toggle" href="#">
+				<span id="menu-box">
+					<span id="menu-inner"></span>
+				</span>
+			</a>
+		</header>
+	
+		<div id="more" class="more more-container more-stage">
+			<section id="home" class="more-slide" data-more-label="home">
+				<div class="middle-container">
+					<div class="flexslider">
+						<ul class="slides">
+							<li>
+								<img src="img/slide-1.jpg" alt="Slide 1" />
+								<div class="flex-caption">
+									A smart city is an urban development vision to integrate multiple information and communication technology (ICT) solutions in a secure fashion to manage a city’s assets
+								</div>
+							</li>
+							<li>
+								<img src="img/slide-3.jpg" alt="Slide 3" />
+								<div class="flex-caption">
+									The goal of building a smart city is to improve quality of life by using technology to improve the efficiency of services and meet residents’ needs.
+								</div>
+							</li>
+							<li>
+								<img src="img/slide-3.jpg" alt="Slide 3" />
+								<div class="flex-caption">
+									ICT is used to enhance quality, performance and interactivity of urban services, to reduce costs and resource consumption and to improve contact between citizens and government.
+								</div>
+							</li>
+							<li>
+								<img src="img/slide-4.jpg" alt="Slide 4" />
+								<div class="flex-caption">
+									ICT allows city officials to interact directly with the community and the city infrastructure and to monitor what is happening in the city, and how to enable a better quality of life.
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<section id="overview" class="more-slide" data-more-label="overview">
+				<div id="outer-circle">
+					<div id="inner-circle">
+						<object type="image/svg+xml" data="img/icon-oman.svg" class="anchor-svg">
+							<img src="img/icon-oman.png" alt="Oman Map" />
+						</object>
+					</div>
+					<div id="icon-building" class="overview-icon">
+						<a href="#building" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-buildings.svg">
+								<img src="img/icon-buildings.png" alt="Smart Buildings Icon" />
+							</object>
+						</a>
+						<h3>Smart Buildings</h3>
+					</div>
+					<div id="icon-energy" class="overview-icon">
+						<a href="#energy" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-energy.svg">
+								<img src="img/icon-energy.png" alt="Renewable Energy" />
+							</object>
+						</a>
+						<h3>Renewable Energy</h3>
+					</div>
+					<div id="icon-gov" class="overview-icon">
+						<a href="#gov" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-gov.svg">
+								<img src="img/icon-gov.png" alt="Electronic Government" />
+							</object>
+						</a>
+						<h3>Electronic Government</h3>
+					</div>
+					<div id="icon-infra" class="overview-icon">
+						<a href="#infra" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-infrastructure.svg">
+								<img src="img/icon-infrastructure.png" alt="Intelligent Infrastructure" />
+							</object>
+						</a>
+						<h3>Intelligent Infrastructure</h3>
+					</div>
+					<div id="icon-public" class="overview-icon">
+						<a href="#public" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-public.svg">
+								<img src="img/icon-public.png" alt="Public Services" />
+							</object>
+						</a>
+						<h3>Public Services</h3>
+					</div>
+					<div id="icon-transport" class="overview-icon">
+						<a href="#transport" class="clearfix">
+							<object type="image/svg+xml" data="img/icon-transportation.svg">
+								<img src="img/icon-transportation.png" alt="Transportation Network" />
+							</object>
+						</a>
+						<h3>Transportation Network</h3>
+					</div>
+				</div>
+			</section>
+			<section id="building" class="content-section more-slide" data-more-label="building">
+				<div class="middle-container">
+						<div class="one-half element-from-left">
+							<div>
+								<h2>Smart Buildings</h2>
+								<p>
+									Smart buildings are buildings that achieve significant energy savings by taking advantage of improved technology and materials in terms of structure, appliances, electrical systems and plumbing. Smart buildings includes advanced control systems, such as lighting, security, heating, ventilation and air conditioning systems, that connect various elements to optimize savings.
+								</p>
+							</div>
+						</div>
+						<div class="one-half last element-from-right">
+							<div>
+								<span class="illustration clearfix">
+									<object type="image/svg+xml" data="img/illustration_Buildings-animated.svg" height="">
+										<img src="img/illustration-buildings.png" alt="Smart Buildings" class="illustration" />
+									</object>
+								</span>
+							</div>
+						</div>
+					</div>
+			</section>
+			<section id="energy" class="content-section more-slide" data-more-label="energy">
+				<div class="middle-container">
+					<div class="one-half element-from-left">
+						<div>
+							<h2>Renewable Energy</h2>
+							<p>
+								Muscat smart city has very ambitious goals to decrease its carbon footprint by increasing power from renewable energy sources to reduce emissions.
+								<br />
+								Renewable energy includes electricity and heat generated from solar, wind, ocean, hydropower, biomass, geothermal resources, and biofuels and hydrogen derived from renewable resources.
+							</p>
+						</div>
+					</div>
+					<div class="one-half last element-from-right">
+						<div>
+							<span class="illustration clearfix">
+								<object type="image/svg+xml" data="img/illustration_Energy-animated.svg">
+									<img src="img/illustration-energy.png" alt="Renewable Energy" class="illustration" />
+								</object>
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="gov" class="content-section more-slide" data-more-label="gov">
+				<div class="middle-container">
+					<div class="one-half element-from-left">
+						<div>
+							<h2>Electronic Government</h2>
+							<p>
+								Information Technology (IT), Information and Communication Technologies (ICT s), and other web-based telecommunication technologies helps simplify processes and makes government information more easily accessible for public sector agencies and citizens. It also offer an increased portfolio of public services to citizens in an efficient and cost effective manner.
+							</p>
+						</div>
+					</div>
+					<div class="one-half last element-from-right">
+						<div>
+							<span class="illustration clearfix">
+								<object type="image/svg+xml" data="img/illustration_Governance-animated.svg">
+									<img src="img/illustration-gov.png" alt="Electronic Government" class="illustration" />
+								</object>
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="infra" class="content-section more-slide" data-more-label="infra">
+				<div class="middle-container">
+					<div class="one-half element-from-left">
+						<div>
+							<h2>Intelligent Infrastructure</h2>
+							<p>
+								Intelligent infrastructure helps government and utility providers to manage water, waste water and electricy systems in safer, more efficient and eviromentally manner. It also helps city residents to directly manage their energy and resource consumption using mobile metering tools. Moreover, city satff will get real time information so appropriate actions can be taken.
+							</p>
+						</div>
+					</div>
+					<div class="one-half last element-from-right">
+						<div>
+							<span class="illustration clearfix">
+								<object type="image/svg+xml" data="img/illustration_Infrastructure-animated.svg">
+									<img src="img/illustration-infrastructure.png" alt="Intelligent Infrastructure" class="illustration" />
+								</object>
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="public" class="content-section more-slide" data-more-label="public">
+				<div class="middle-container">
+					<div class="one-half element-from-left">
+						<div>
+							<h2>Public Services</h2>
+							<p>
+								Information technology facilitate the delivery of learning content to student through smart devices. It allows students to learn at their pace, with relevant content and learning approaches.
+								<br />
+								Intelligent healthcare systems helps in promoting wellness amont citizens, real time access to patients medical information, and improve patient outcomes in hospitals and clinics.
+							</p>
+						</div>
+					</div>
+					<div class="one-half last element-from-right">
+						<div>
+							<span class="illustration clearfix">
+								<object type="image/svg+xml" data="img/illustration_Public-Services-animated.svg">
+									<img src="img/illustration-public.png" alt="Public Services" class="illustration" />
+								</object>
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="transport" class="content-section more-slide" data-more-label="transport">
+				<div class="middle-container">
+					<div class="one-half element-from-left">
+						<div>
+							<h2>Transportation Network</h2>
+							<p>
+								An intelligent transportation system is  where all moving parts are working together as data is being shared in real time, among vehicles and infrastructure through millions of sensors embedded in street signs, traffic lights and roads. This system will allow less congestion and better, more efficient urban mobility.
+							</p>
+						</div>
+					</div>
+					<div class="one-half last element-from-right">
+						<div>
+							<span class="illustration clearfix">
+								<object type="image/svg+xml" data="img/illustration_Transportation-animated.svg">
+									<img src="img/illustration-transportation.png" alt="Transportation Network" class="illustration" />
+								</object>
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+
+		<footer class="Fixed">
+			<div id="navigation-arrows">
+				<a href="#" id="prev-slide">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40"><g><use xlink:href="#slide-arrow-left-circle" fill="#efefef"/><use xlink:href="#slide-arrow-left" fill="#9e9e9e"/></g></svg>
+				</a>
+				<a href="#" id="next-slide">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40"><g><use xlink:href="#slide-arrow-right-circle" fill="#efefef"/><use xlink:href="#slide-arrow-right" fill="#9e9e9e"/></g></svg>
+				</a>
+			</div>
+			<div class="middle-container">
+				Muscat Smart City © 2016. All Copyrights Reserved.
+			</div>
+		</footer>
+
+		<nav id="nav" class="main-menu nav-collapse">
+			<ul id="menu" class="clearfix">
+				<li data-more-index="#home"><a href="#home" id="menu-b">Home</a></li>
+				<li data-more-index="#overview"><a href="#overview" id="menu-b">Overview</a></li>
+				<li data-more-index="#building"><a href="#building" id="menu-b">Smart Buildings</a></li>
+				<li data-more-index="#energy"><a href="#energy" id="menu-e">Renewable Energy</a></li>
+				<li data-more-index="#gov"><a href="#gov" id="menu-g">eGovernment</a></li>
+				<li data-more-index="#infra"><a href="#infra" id="menu-i">Infrastructure</a></li>
+				<li data-more-index="#public"><a href="#public" id="menu-p">Public Services</a></li>
+				<li data-more-index="#transport"><a href="#transport" id="menu-t">Transportation</a></li>
+			</ul>
+		</nav>
+	</div>
+	
+	<div class="remodal" data-remodal-id="modal" data-remodal-options="hashTracking: false, closeOnOutsideClick: false, closeOnConfirm: false">
+		<button data-remodal-action="close" class="remodal-close"></button>
+		<h1>Notice</h1>
+		<p>
+		This HTML template an experimental and enhanced version (v.2) of the original design. It utilises CSS3 animations, SVG files, CSS3 Media Queries and various jQuery plugins. To view the original template (v.1), please click on the button below.
+		</p>
+		<br>
+		<button id="redirect" data-remodal-action="confirm" class="remodal-confirm">Old Version</button>
+		<button id="cancel" data-remodal-action="cancel" class="remodal-cancel">Close</button>
+	</div>
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" class="hide"><symbol id="arrow-left"><path id="slide-arrow-left-circle" class="slide-arrow-circle" d="M20 0C9 0 0 9 0 20s9 20 20 20c11 0 20-9 20-20S31 0 20 0zM26.8 28.2l-3.5 3.5L11.5 20 23.2 8.2l3.5 3.5L18.5 20 26.8 28.2z"/><polygon id="slide-arrow-left" class="slide-arrow" points="23.2,31.8 26.8,28.2 18.5,20 26.8,11.8 23.2,8.2 11.5,20 "/></symbol></svg>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" class="hide"><symbol id="arrow-right"><path id="slide-arrow-right-circle" class="slide-arrow-circle" d="M20 0C9 0 0 9 0 20s9 20 20 20c11 0 20-9 20-20S31 0 20 0zM16.8 31.8l-3.5-3.5 8.2-8.2 -8.2-8.2 3.5-3.5L28.5 20 16.8 31.8z"/><polygon id="slide-arrow-right"  class="slide-arrow" points="16.8,31.8 13.2,28.2 21.5,20 13.2,11.8 16.8,8.2 28.5,20 "/></symbol></svg>
+</body>
+</html>
