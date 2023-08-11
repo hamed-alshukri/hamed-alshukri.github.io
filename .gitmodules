@@ -1,0 +1,3 @@
+[submodule "qomrah-html"]
+	path = qomrah-html
+	url = https://github.com/hamed-alshukri/qomrah-html
